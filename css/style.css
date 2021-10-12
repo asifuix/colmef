@@ -16,7 +16,7 @@ a{
 .home-btn a{
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    background: #04a6e1;
+    background: #3AAF4A;
     color: #fff;
     padding: 10px 15px;
     border-radius: 25px;
@@ -52,7 +52,7 @@ a{
     position: relative;
     width: 100%;
     height: 160px;
-    background: #04a6e1;
+    background: #3AAF4A;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
@@ -214,7 +214,7 @@ a{
 }
 .module-icon{
     background: #fff;
-    border: 1px solid #04a6e1;
+    border: 1px solid #3AAF4A;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     padding: 30px 60px;
@@ -225,8 +225,8 @@ a{
     height: 75px;
 }
 .module-text{
-    background: #04a6e1;
-    border: 1px solid #04a6e1;
+    background: #3AAF4A;
+    border: 1px solid #3AAF4A;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -252,8 +252,8 @@ a{
     height: 120px;
     line-height: 55px;
     margin: 15px auto;
-    background: #04a6e1;
-    border: 1px solid #04a6e1;
+    background: #3AAF4A;
+    border: 1px solid #3AAF4A;
     border-radius: 50%;
     padding: 30px;
     text-align: center;
@@ -264,7 +264,7 @@ a{
     left: -11px;
     width: 140px;
     height: 140px;
-    border: 1px solid #04a6e1;
+    border: 1px solid #3AAF4A;
     border-radius: 50%;
 }
 .inner-module-box .module-icon img{
@@ -294,8 +294,8 @@ a{
 }
 .horiz-inner-module-box .module-icon{
     width: 35%;
-    background: #04a6e1;
-    border: 1px solid #04a6e1;
+    background: #3AAF4A;
+    border: 1px solid #3AAF4A;
     padding: 20px;
     text-align: center;
     border-radius: 20px 0 0 20px;
@@ -312,7 +312,7 @@ a{
 .horiz-inner-module-box .module-text{
     width: 65%;
     background: #fff;
-    border: 1px solid #04a6e1;
+    border: 1px solid #3AAF4A;
     border-radius: 0 20px 20px 0;
     padding: 30px 60px;
     text-align: center;
@@ -331,7 +331,7 @@ a{
     text-decoration: underline;
 }
 .announcement-links .announcement a{
-    color: #04a6e1 !important;
+    color: #3AAF4A !important;
     display: inline-block;
     color: #2c2a25;
     margin: 20px 0;
