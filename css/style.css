@@ -121,7 +121,7 @@ a{
     box-shadow: 0px 5px 20px 0px #e0e0e0;
 }
 .quick-links a:hover{
-    background: #3aae2a;
+    background: #8d8d8d;
     color: #fff;
     transition: 0.5s ease-in-out;
 }
@@ -208,8 +208,8 @@ a{
     box-shadow: 0px 5px 20px 0px #e0e0e0;
 }
 .module-box:hover .module-text{
-    background: #3aae2a;
-    border: 1px solid #3aae2a;
+    background: #8d8d8d;
+    border: 1px solid #8d8d8d;
     transition: 0.5s ease-in-out;
 }
 .module-icon{
@@ -344,12 +344,12 @@ a{
     background: none;
 }
 .inner-cards a:hover .module-icon{
-    background-color: #58595b;
-    border-color: #58595b;
+    background-color: #8d8d8d;
+    border-color: #8d8d8d;
     transition: 0.5s ease-in-out;
 }
 .inner-cards a:hover .module-icon .round-ouline{
-    border-color: #58595b;
+    border-color: #8d8d8d;
     transition: 0.5s ease-in-out;
 }
 /* RESPONSIVE CSS HERE */
